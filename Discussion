@@ -2,3 +2,9 @@
 
 15/10/2019 Ouverture du Repository
 
+# PA    A propos de find_Seed : j'ai l'impression qu'il faut faire une méthode de Newton sur un truc à 1D normalement ça va 
+        Mais du coup pour simple contour il faut surement utiliser le théorême des fonctions implicite et la formule qu'il nous a filé pour la 
+        retrouver en donction du reste. 
+
+        contour complexe a l'air d'être en soit q'une superposition des fonctions qu'on a utilisé avant, il faudra juste modifier find_seed pour la faire bosser sur 
+        les quatres cotés de la zone 
