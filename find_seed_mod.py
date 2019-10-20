@@ -1,13 +1,22 @@
 """
+<<<<<<< HEAD
 La fonction prend en argument une fonction g, une valeur c qui définit l'équation g(x,y)=c, 
+=======
+La foncrtion prend en argument une fonction g, une valeur c qui définit l'équation g(x,y)=c, 
+>>>>>>> 055664e2dee7be5206399d0037ea61ba44fb4b05
 les entrées limx et limy sont des listes de 2 éléments chacunes 
 qui  correspondent aux limites de la boite, epsilon corresond à la précision souhaitée
 On teste d'abord find seed sur l'arrete gauche puis la supérieure, puis celle de droite 
 et enfin l'arrete inférieure . on renvoit none si on ne trouve pas d'amorce
 """
 
+<<<<<<< HEAD
 import autograd as autograd
 from autograd import numpy as np 
+=======
+import autograd
+from autograd import numpy as anp 
+>>>>>>> 055664e2dee7be5206399d0037ea61ba44fb4b05
 import matplotlib.pyplot as plt 
 
 
